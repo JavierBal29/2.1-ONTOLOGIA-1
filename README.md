@@ -358,7 +358,7 @@ ONTOLOGÍA DE PELICULA
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/javierbalbuena/ontologies/2020/2/untitled-ontology-12#Guionista1">
         <rdf:type rdf:resource="http://www.semanticweb.org/javierbalbuena/ontologies/2020/2/untitled-ontology-12#Guionista"/>
     </owl:NamedIndividual>
-</rdf:RDF>
+     </rdf:RDF>
 
 
 
